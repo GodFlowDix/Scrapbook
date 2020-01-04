@@ -14,6 +14,7 @@
 		C2290B4123BF01960043CFE4 /* Scrapbook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C2290B3F23BF01960043CFE4 /* Scrapbook.xcdatamodeld */; };
 		C2290B4323BF019B0043CFE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2290B4223BF019B0043CFE4 /* Assets.xcassets */; };
 		C2290B4623BF019B0043CFE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2290B4423BF019B0043CFE4 /* LaunchScreen.storyboard */; };
+		C2290B4E23BF04CD0043CFE4 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2290B4D23BF04CD0043CFE4 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C2290B4223BF019B0043CFE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2290B4523BF019B0043CFE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2290B4723BF019B0043CFE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2290B4D23BF04CD0043CFE4 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				C2290B3623BF01960043CFE4 /* AppDelegate.swift */,
 				C2290B3823BF01960043CFE4 /* SceneDelegate.swift */,
 				C2290B3A23BF01960043CFE4 /* ViewController.swift */,
+				C2290B4D23BF04CD0043CFE4 /* DetailsVC.swift */,
 				C2290B3C23BF01960043CFE4 /* Main.storyboard */,
 				C2290B4223BF019B0043CFE4 /* Assets.xcassets */,
 				C2290B4423BF019B0043CFE4 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				C2290B3723BF01960043CFE4 /* AppDelegate.swift in Sources */,
 				C2290B4123BF01960043CFE4 /* Scrapbook.xcdatamodeld in Sources */,
 				C2290B3923BF01960043CFE4 /* SceneDelegate.swift in Sources */,
+				C2290B4E23BF04CD0043CFE4 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
